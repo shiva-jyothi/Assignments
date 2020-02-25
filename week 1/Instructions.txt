@@ -1,0 +1,4 @@
+Guidelines for Assignments Submissions:
+1) DONOT copy code from any source. You can browse internet for refernces, but not for copying.
+2) If you are using any inbuilt functions/packages for solving your assignments make sure you know the internal functioning of them.
+3) Make sure you submit your assignments before the given deadline.
