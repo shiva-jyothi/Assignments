@@ -2,3 +2,14 @@ Guidelines for Assignments Submissions:
 1) DONOT copy code from any source. You can browse internet for refernces, but not for copying.
 2) If you are using any inbuilt functions/packages for solving your assignments make sure you know the internal functioning of them.
 3) Make sure you submit your assignments before the given deadline.
+
+
+Procedure:
+1) Fork the repository "Assignments" into your github account.
+2) Navigate to week1 folder and upload your assignment as word document (with screenshots if needed). Name the file with your name while      uploading, this will help us to identify you while evaluating.
+3) Commit the changes in your repository.
+4) Send a pull request to Explore-ML-CBIT organisation.
+5) Fill in necessary details and confirm pull request.
+6) This will complete your submission.
+7) Warning: At once only one person should fork the repository, submit assignment and send pull request, to avoid merge conflicts. So put    a message in whatsapp group while submitting your assignments, to forgo any clashes. 
+8) Suggestion: Always fork the latest commit.
